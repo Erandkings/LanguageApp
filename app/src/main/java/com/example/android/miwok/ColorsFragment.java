@@ -22,7 +22,7 @@ import static android.media.AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK;
 import static android.media.AudioManager.AUDIOFOCUS_REQUEST_GRANTED;
 
 /**
- * Created by Erandkings on 2/13/2019.
+ * Created by ERAND on 5/26/2018
  */
 public class ColorsFragment extends Fragment {
 

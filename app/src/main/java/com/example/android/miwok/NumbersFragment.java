@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /**
- * Created by Erandkings on 2/13/2019.
+ * Created by ERAND on 5/26/2018
  */
 public class NumbersFragment extends Fragment{
 
@@ -74,7 +74,6 @@ public class NumbersFragment extends Fragment{
         //It displays the text in the java file instead of hardcoding it in the xml file
         final ArrayList<Word> words = new ArrayList<>();
         words.add(new Word("one", "lutti", R.drawable.image, R.raw.number_one));
-        words.add(new Word("King", "Erand", R.drawable.images, R.raw.number_two));
         words.add(new Word("two", "otiiko", R.drawable.image, R.raw.number_three));
         words.add(new Word("three", "tolookosu", R.drawable.image, R.raw.number_four));
         words.add(new Word("four", "oyyisa", R.drawable.image, R.raw.number_five));

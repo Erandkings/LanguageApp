@@ -3,7 +3,7 @@ package com.example.android.miwok;
 import android.text.Html;
 
 /**
- * Created by ERAND on 6/1/2018.
+ * Created by ERAND on 6/1/2018
  */
 
 public class Word {

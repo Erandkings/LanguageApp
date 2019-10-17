@@ -1,4 +1,4 @@
-#Wed Oct 16 17:32:21 WAT 2019
+#Thu Oct 17 12:15:54 WAT 2019
 base.0=/home/erandkings/AndroidStudioProjects/Miwok/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 /**
- * Created by Erandkings on 2/13/2019.
+ * Created by ERAND on 5/26/2018
  */
 
 public class CategoryAdapter extends FragmentPagerAdapter {

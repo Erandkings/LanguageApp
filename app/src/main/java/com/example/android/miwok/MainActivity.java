@@ -30,6 +30,10 @@ import android.widget.Toolbar;
 
 import org.w3c.dom.Text;
 
+/**
+ * Created by ERAND on 5/26/2018
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
